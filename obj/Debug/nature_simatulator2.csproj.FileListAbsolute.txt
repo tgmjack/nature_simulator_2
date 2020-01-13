@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\nature_simatulator2\nature_simatulator2\obj\Debug\nature_simatulator2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\nature_simatulator2\nature_simatulator2\obj\Debug\nature_simatulator2.main_screen.resources
+C:\Users\User\source\repos\nature_simatulator2\nature_simatulator2\obj\Debug\nature_simatulator2.Properties.Resources.resources
+C:\Users\User\source\repos\nature_simatulator2\nature_simatulator2\obj\Debug\nature_simatulator2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\nature_simatulator2\nature_simatulator2\obj\Debug\nature_simatulator2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\nature_simatulator2\nature_simatulator2\bin\Debug\nature_simatulator2.exe.config
+C:\Users\User\source\repos\nature_simatulator2\nature_simatulator2\bin\Debug\nature_simatulator2.exe
+C:\Users\User\source\repos\nature_simatulator2\nature_simatulator2\bin\Debug\nature_simatulator2.pdb
+C:\Users\User\source\repos\nature_simatulator2\nature_simatulator2\obj\Debug\nature_simatulator2.exe
+C:\Users\User\source\repos\nature_simatulator2\nature_simatulator2\obj\Debug\nature_simatulator2.pdb
